@@ -1,0 +1,49 @@
+/* Google font- Poopin 300, 400, 500, 600*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+/* common style or Utilities */
+body{
+    font-family: 'Poppins', sans-serif;    
+}
+h1{
+    font-weight: 600;
+}
+
+
+/* Custom font weight */
+.honda-fw-300{
+    font-weight: 300;
+}
+.honda-fw-500{
+    font-weight: 500;
+}
+.honda-fw-600{
+    font-weight: 600;
+}
+
+
+header{
+    background-color: #264653;
+}
+.honda-btn-purchese{
+    background-color: #E76F51;
+    /* p 10 46 */
+    padding: 10px 46px;
+    border-radius: 5px;
+    border: none;
+    width: 168px;
+    
+}
+.honda-text-orange{
+    color: #E76F51;
+}
+hr{
+    width: 58.5px;
+    border: solid 1px #ec5833;
+    margin: 0 auto;
+    margin-bottom: 116.5px;
+}
+.honda-grayscale{
+    filter: grayscale(1);
+}
+
